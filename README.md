@@ -1,2 +1,2 @@
 # Demo
-first repo
+first repository
